@@ -21,6 +21,8 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "react/jsx-uses-react": "off",
+        "react/react-in-jsx-scope": "off",
         "import/extensions": 1,
         "import/no-named-as-default": 0,
         "@typescript-eslint/strict-boolean-expressions": 0,
